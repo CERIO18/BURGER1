@@ -3,7 +3,7 @@ CREATE DATABASE burger_db;
 
 
 
-CREATE TABLE burger
+CREATE TABLE burger_db.burgers
 (
 	id INT (10)AUTO_INCREMENT NOT NULL,
 	burger_name varchar(255) NOT NULL,
